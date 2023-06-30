@@ -1,0 +1,3 @@
+/home/teseryy/Programming/Git/PA1/sandadan/hw08/cmake-build-debug/CMakeFiles/test.dir
+/home/teseryy/Programming/Git/PA1/sandadan/hw08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/teseryy/Programming/Git/PA1/sandadan/hw08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
